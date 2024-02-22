@@ -1,0 +1,31 @@
+{
+  "name": "tt-theme",
+  "displayName": "tt-theme",
+  "description": "",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tt-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tt-theme.json"
+      },
+      {
+        "label": "tt-theme-ultra-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tt-theme-ultra-dark.json"
+      },
+      {
+        "label": "tt-theme-light",
+        "uiTheme": "vs",
+        "path": "./themes/tt-theme-light.json"
+      }
+    ]
+  }
+}
