@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.78.0"
   },
+  "publisher": "ttisak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttisak/tt-theme.git"
+  },
   "categories": [
     "Themes"
   ],
