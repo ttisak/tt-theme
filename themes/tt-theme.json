@@ -1,6 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "TT Theme",
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.activeBorder": "#0078d4",
     "activityBar.background": "#181818",
@@ -255,7 +256,6 @@
       "scope": [
         "entity.name.section",
         "entity.name.tag",
-        "entity.name.type",
         "support.type"
       ],
       "settings": {
@@ -311,6 +311,14 @@
       ],
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+      ],
+      "settings": {
+        "foreground": "#7eceff"
       }
     }
   ]
