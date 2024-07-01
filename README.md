@@ -4,7 +4,7 @@ A simple and clean theme.
 
 ## Themes included
 
-- **TT theme**
+- **TT Theme**
   
     A simple and clean theme with a dark background.
 

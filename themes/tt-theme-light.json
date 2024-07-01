@@ -133,6 +133,7 @@
         "editor.foreground": "#36435d",
         "editor.lineHighlightBackground": "#36435d1A",
         "editor.lineHighlightBorder": "#ffffff00",
+        "editor.linkedEditingBackground": "#073d5d",
         "editor.selectionBackground": "#36435d33",
         "editor.selectionHighlightBackground": "#36435d1A",
         "editor.selectionHighlightBorder": "#242d3d",
@@ -231,20 +232,13 @@
         },
         {
             "scope": [
-                "storage"
-            ],
-            "settings": {
-                "foreground": "#0060ae"
-            }
-        },
-        {
-            "scope": [
+                "storage",
                 "support.class",
                 "entity.name.namespace",
                 "meta.diff.header"
             ],
             "settings": {
-                "foreground": "#9e6700"
+                "foreground": "#0060ae"
             }
         },
         {

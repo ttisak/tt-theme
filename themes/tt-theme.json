@@ -132,6 +132,7 @@
     "editor.foreground": "#A9B2C3",
     "editor.lineHighlightBackground": "#A9B2C31A",
     "editor.lineHighlightBorder": "#00000000",
+    "editor.linkedEditingBackground": "#073d5d",
     "editor.selectionBackground": "#A9B2C333",
     "editor.selectionHighlightBackground": "#A9B2C31A",
     "editor.selectionHighlightBorder": "#C6CCD7",
